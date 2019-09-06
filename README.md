@@ -1,6 +1,6 @@
 ## OCR-based-helper
 
-[the demo video on youtube](https://youtu.be/yjz7phKSQIo)
+* [the demo video on youtube](https://youtu.be/yjz7phKSQIo)
 
-![screenshot]()
+* ![screenshot](https://github.com/yipersevere/OCR-based-helper/blob/master/Selection_018.jpg)
 
