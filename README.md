@@ -1,6 +1,6 @@
 ## OCR-based-helper
 
-* [the demo video on youtube](https://youtu.be/yjz7phKSQIo)
+* [the demo on youtube](https://youtu.be/yjz7phKSQIo)
 
 * one screenshot
 
